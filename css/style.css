@@ -2412,7 +2412,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_news .news_list ul li .image:hover .main{
-	transform: scale(1.1);
+	transform: scale(1);
 }
 .know_tm_news .news_list ul li .details{
 	width: 100%;
